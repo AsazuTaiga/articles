@@ -32,7 +32,7 @@
 
 ## 制作のきっかけ
 
-お仕事でSeleniumでのE2Eテストを導入したいなあと思い、Seleniumを触っていろいろやれることを模索している中で、[現代俳句データベース](http://www.haiku-data.jp/index.php)の季語データのスクレイピングを試してみたところ、いい感じにデータが作れた……というのが古都の始まりです。
+お仕事でSeleniumでのE2Eテストを導入したいなあと思い、Seleniumを触っていろいろやれることを模索している中で、[現代俳句データベース](http://www.haiku-data.jp/index.php)の季語データのスクレイピングを試してみたところ、いい感じにデータが作れた……というのがことの始まりです。
 
 https://github.com/AsazuTaiga/scraping-kigo
 
