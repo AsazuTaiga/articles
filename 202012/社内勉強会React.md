@@ -151,8 +151,6 @@ ReactDOM.render(element, document.getElementById('hello-world'))
 ※`react-dom`は`react`コアとは切り離されたパッケージとして提供されている
 →React Native等への応用が可能となっている
 ## 実行結果
-sample1
-
 ```html
 <html>
   <body>
